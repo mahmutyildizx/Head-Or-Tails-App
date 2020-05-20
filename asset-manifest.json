@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Head-Or-Tails-App/static/css/main.b5cb262b.chunk.css",
+    "main.js": "/Head-Or-Tails-App/static/js/main.2f7880d3.chunk.js",
+    "main.js.map": "/Head-Or-Tails-App/static/js/main.2f7880d3.chunk.js.map",
+    "runtime-main.js": "/Head-Or-Tails-App/static/js/runtime-main.5e060e21.js",
+    "runtime-main.js.map": "/Head-Or-Tails-App/static/js/runtime-main.5e060e21.js.map",
+    "static/js/2.84df7e86.chunk.js": "/Head-Or-Tails-App/static/js/2.84df7e86.chunk.js",
+    "static/js/2.84df7e86.chunk.js.map": "/Head-Or-Tails-App/static/js/2.84df7e86.chunk.js.map",
+    "index.html": "/Head-Or-Tails-App/index.html",
+    "precache-manifest.e1b3d74e241e78ad8fddeb14f67b2d25.js": "/Head-Or-Tails-App/precache-manifest.e1b3d74e241e78ad8fddeb14f67b2d25.js",
+    "service-worker.js": "/Head-Or-Tails-App/service-worker.js",
+    "static/css/main.b5cb262b.chunk.css.map": "/Head-Or-Tails-App/static/css/main.b5cb262b.chunk.css.map",
+    "static/js/2.84df7e86.chunk.js.LICENSE.txt": "/Head-Or-Tails-App/static/js/2.84df7e86.chunk.js.LICENSE.txt",
+    "static/media/1-lira-tura.png": "/Head-Or-Tails-App/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "/Head-Or-Tails-App/static/media/1-lira-yazi.9b70882e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e060e21.js",
+    "static/js/2.84df7e86.chunk.js",
+    "static/css/main.b5cb262b.chunk.css",
+    "static/js/main.2f7880d3.chunk.js"
+  ]
+}
