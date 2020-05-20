@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Please visit https://mahmuttyildiz.github.io/Head-Or-Tails-App/ for review
+
 ## Available Scripts
 
 In the project directory, you can run:
